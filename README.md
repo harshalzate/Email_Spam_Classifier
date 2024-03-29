@@ -3,6 +3,7 @@
 EMAIL SPAM DETECTION
 
 One of the primary methods for spam mail detection is email filtering. It involves categorize incoming emails into spam and non-spam. Machine learning algorithms can be trained to filter out spam mails based on their content and metadata.
+
 Developed an advanced email spam classifier leveraging machine learning algorithms, aimed at automatically discerning and filtering out spam emails from legitimate ones, thereby enhancing email security and user experience.
 
 Utilized Natural Language Toolkit (NLTK) for comprehensive data preprocessing, ensuring optimal preparation of email content for subsequent analysis and feature extraction.
